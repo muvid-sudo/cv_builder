@@ -3,7 +3,7 @@ Project which help customers to create modern CV
 
 
 
-## Использование
+## Using
 For start working use this command:
 
 
